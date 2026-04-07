@@ -36,7 +36,9 @@ cl.bishop2.name_sc = "·"
 cl.bishop2.name_p = "."
 cl.bishop2.fimi.text = ""
 
-/* 
+cl.relic_saints.text = "(τῶν ἁγίων)"
+
+
 cl.localpatronsaint1.supplication = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 cl.localpatronsaint1.dismissal = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 cl.localpatronsaint1.greatcompline = ""
@@ -48,12 +50,12 @@ cl.Apolytikion1.mode = me.m04.d23_gr_GR_cog.meVE.Apolytikion1.mode
 cl.Apolytikion1.melody = me.m04.d23_gr_GR_cog.meVE.Apolytikion1.melody
 cl.Apolytikion1.text = me.m04.d23_gr_GR_cog.meVE.Apolytikion1.text
 
-cl.conVE.SticBoth.churchname.text = "τοῦ Ἁγίου Γεωργίου,"
-cl.consecration.name = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
-cl.consecration.prayer1 = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
-cl.consecration.greatlitany.finalpetition.name = "καὶ τοῦ Ἁγίου Γεωργίου," //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
-*/
- 
+cl.conVE.SticBoth.churchname.text = ""
+cl.consecration.name = ""
+cl.consecration.prayer1 = ""
+cl.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
+
+ /* 
 cl.relics.saint1 = ""
 cl.relics.saint1.Apolytikion.title = ""
 cl.relics.saint1.Apolytikion.mode = pe.d078_gr_GR_cog.alt1.peVE.Apolytikion1.mode
@@ -71,7 +73,7 @@ cl.relics.saint3.Apolytikion.title = ""
 cl.relics.saint3.Apolytikion.mode = 
 cl.relics.saint3.Apolytikion.melody = ""
 cl.relics.saint3.Apolytikion.text = 
-
+*/
 /*
 cl.localpatronsaint1.supplication = ""
 cl.localpatronsaint1.dismissal = ""

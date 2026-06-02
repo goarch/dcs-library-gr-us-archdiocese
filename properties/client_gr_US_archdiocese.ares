@@ -41,7 +41,6 @@ cl.bishop2.fimi.text = ""
 
 cl.relic_saints.text = "(τῶν ἁγίων)"
 
-
 cl.localpatronsaint1.supplication = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 cl.localpatronsaint1.dismissal = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 cl.localpatronsaint1.greatcompline = ""

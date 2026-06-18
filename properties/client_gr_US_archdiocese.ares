@@ -43,6 +43,7 @@ cl.relic_saints.text = "(τῶν ἁγίων)"
 
 cl.localpatronsaint1.supplication = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 cl.localpatronsaint1.dismissal = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
+cl.localpatronsaint1.commemoration = "τοῦ Ἁγίου ἐνδόξου Μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου,"
 cl.localpatronsaint1.greatcompline = ""
 
 cl.localchurch.title = "Τοῦ Ἁγίου Γεωργίου."
@@ -79,6 +80,7 @@ cl.relics.saint3.Apolytikion.text =
 /*
 cl.localpatronsaint1.supplication = ""
 cl.localpatronsaint1.dismissal = ""
+cl.localpatronsaint1.commemoration = ""
 cl.localpatronsaint1.greatcompline = ""
 
 cl.localchurch.title = ""
@@ -97,6 +99,7 @@ cl.consecration.greatlitany.finalpetition.name = "" //(καὶ ὄνομα ἁγ
  
 cl.localpatronsaint1.supplication = ""
 cl.localpatronsaint1.dismissal = ""
+cl.localpatronsaint1.commemoration = ""
 cl.localpatronsaint1.greatcompline = ""
 
 cl.localchurch.title = ""
